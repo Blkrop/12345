@@ -6,7 +6,7 @@ script:
 deploy:
   provider: heroku
   api_key: 
-    secure: 
+    secure: 346590c5-dcab-4fc3-b5a9-f541919be679
   app: less2
   on:
     
