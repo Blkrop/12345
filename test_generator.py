@@ -1,5 +1,5 @@
 import unittest
-import 12345
+import generator
 
 
 def test_sample_single_word():
